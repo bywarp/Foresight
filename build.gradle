@@ -64,7 +64,7 @@ publishing {
 
     repositories {
         maven {
-            url "https://maven.pkg.github.com/bywarp/Melon"
+            url "https://maven.pkg.github.com/bywarp/Foresight"
             credentials {
                 username = System.getenv("USERNAME")
                 password = System.getenv("TOKEN")
